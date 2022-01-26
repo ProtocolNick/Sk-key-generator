@@ -1,6 +1,7 @@
 # Sk-key-generator
 Sk key generator tool in python
 
+TERMUX INSTALLATION COMMANDS
 
 pkg update -y && pkg upgrade -y
 
