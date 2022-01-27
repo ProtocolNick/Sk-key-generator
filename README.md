@@ -14,3 +14,9 @@ pip install -r requirements.txt
 python3 sk_maker.py
 
 
+CREDIT GOES TO VENOM SCAMMER TELEGRAM :- @venom_chor
+
+https://telegram.me/venom_chor
+
+
+
